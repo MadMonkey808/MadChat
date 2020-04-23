@@ -1,0 +1,10 @@
+name: MadChat
+main: me.madmonkey.madchat.Main
+version: 1.0
+author: MadMonkey
+description: MadChat plugin
+commands:
+  chat:
+    usage: /<command>
+    description: MadChat Manager Command.
+    aliases: [c, ch]
